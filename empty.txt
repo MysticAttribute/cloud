@@ -3,3 +3,4 @@ Amend was successful))
 Deleting test file
 Renaming branch testing
 Checkpoint
+Merge Fast-Forward
