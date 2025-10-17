@@ -6,5 +6,5 @@ Checkpoint
 Merge Fast-Forward
 Ne intoarcem pe Main inainte de merge
 Merge Non-Fast-Forward
-
 Linie noua dupa try
+No conflict merge
