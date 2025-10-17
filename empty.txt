@@ -4,3 +4,4 @@ Deleting test file
 Renaming branch testing
 Checkpoint
 Merge Fast-Forward
+Merge Non-Fast-Forward
