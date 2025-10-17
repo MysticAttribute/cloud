@@ -4,3 +4,4 @@ Deleting test file
 Renaming branch testing
 Checkpoint
 Merge Fast-Forward
+Ne intoarcem pe Main inainte de merge
